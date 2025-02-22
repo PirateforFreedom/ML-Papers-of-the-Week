@@ -3,7 +3,7 @@
 [Subscribe to our newsletter](https://nlpnews.substack.com/) to get a weekly list of top ML papers in your inbox.
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
-
+https://www.pyspur.dev/blog/introduction_cuda_programming
 Here is the weekly series:
 
 
